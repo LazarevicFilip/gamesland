@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+:root {
+  --primary-color: #fed700;
+  --white: #fff;
+  --font-color: #bbb7b7;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #000;
+  color: var(--white);
+}
+a {
+  text-decoration: none !important;
+}
+ul {
+  list-style: none !important;
+}
+img {
+  width: 100%;
+}
+section {
+  margin: 130px 0;
+}
+.card {
+  background-color: #000 !important;
+  border: 1px solid #e2e2e2;
+  position: relative;
+}
+.card img {
+  height: 316px !important;
+}
+.show {
+  display: block !important;
+}
+.border-err {
+  border: 3px solid #dc3545;
+}
+.border-success {
+  border: 3px solid #28a745;
+}
+/* navbar */
+.header li a {
+  color: var(--white) !important;
+  font-weight: 600;
+}
+.active-link a {
+  color: var(--primary-color) !important;
+}
+.header li a:hover {
+  color: var(--primary-color) !important;
+}
+.navbar-brand {
+  color: var(--white) !important;
+}
+.navbar-brand:hover {
+  color: var(--white);
+}
+.logo-color {
+  color: var(--primary-color);
+}
+.navbar-toggler {
+  background: var(--primary-color);
+}
+/* showcase */
+.showcase {
+  width: 100%;
+  height: 550px;
+  background: url("../img/1624.jpg") center center / cover no-repeat;
+  position: relative;
+}
+.showcase-pages::before,
+.showcase::before,
+.baner::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgb(0, 0, 0, 0.7);
+}
+.showcase h2,
+p {
+  color: var(--white);
+}
+.showcase p {
+  line-height: 1.8;
+}
+.showcase .my-btn {
+  background: var(--primary-color);
+  color: var(--white);
+  padding: 7px 24px;
+  display: inline-block;
+}
+.my-btn:hover {
+  opacity: 0.9;
+}
+.showcase-pages {
+  width: 100%;
+  height: 300px;
+  background: url("../img/1624.jpg") center bottom / cover no-repeat;
+  position: relative;
+}
+#platforms li {
+  font-size: 1.12rem;
+  margin: 0 0 10px 10px;
+}
+.about-p {
+  line-height: 1.7;
+  color: var(--font-color);
+}
+.cart-p {
+  font-size: 22px;
+}
+.preoder {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: #e71d36;
+  color: #000;
+  border-radius: 5px;
+}
+.line-through {
+  text-decoration: line-through;
+  font-size: 11px;
+  color: var(--font-color);
+  margin-bottom: 5px !important;
+}
+.overlay::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgb(0, 0, 0, 0.3);
+}
+iframe {
+  width: 100%;
+  height: 400px;
+}
+footer,
+footer a {
+  background-color: #0f0f0f;
+  color: var(--font-color);
+}
+/* footer */
+footer a:hover {
+  color: var(--primary-color);
+}
+footer i {
+  margin-right: 10px;
+}
+footer h4 {
+  color: var(--primary-color);
+}
+.new-games h3 {
+  color: var(--primary-color);
+}
+.baner {
+  background: url("../img/baner.jpg") center center / cover no-repeat;
+  height: 250px;
+  width: 100%;
+  position: relative;
+}
+/* contact */
+.contact h2 {
+  color: var(--primary-color);
+}
+.contact,
+.contact p {
+  color: var(--font-color);
+}
+.contact .hide {
+  display: none;
+}
+#scrollToTop {
+  position: fixed;
+  bottom: 15px;
+  right: 20px;
+  font-size: 35px;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+.slika-cart {
+  width: 100px;
+  height: 150px;
+}
+.rem {
+  position: relative;
+}

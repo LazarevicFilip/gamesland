@@ -1,0 +1,258 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "PS5 Marvel’s Spider-Man - Miles Morales",
+        "slika" : {
+            "src" : "assets/img/game1.jpg",
+            "alt" : "PS5 Marvel’s Spider-Man - Miles Morales"
+        },
+        "kompanija" : 1,
+        "platforma" : 3,
+        "kategorija" : [1,2],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 9499
+        },
+        "datumIzlaska" : "2020-11-19"
+    },
+    {
+        "id" : 2,
+        "naziv" : "PS5 Tennis World Tour 2",
+        "slika" : {
+            "src" : "assets/img/game4.jpg",
+            "alt" : "PS5 Tennis World Tour 2"
+        },
+        "kompanija" : 4,
+        "platforma" : 2,
+        "kategorija" : [3],
+        "cena" : {
+            "staraCena" : 6999,
+            "novaCena" : 6199
+        },
+        "datumIzlaska" : "2021-06-15"
+    },
+    {
+        "id" : 3,
+        "naziv" : "PS5 Hitman 3",
+        "slika" : {
+            "src" : "assets/img/game3.jpg",
+            "alt" : "PS5 Hitman 3"
+        },
+        "kompanija" : 3,
+        "platforma" : 2,
+        "kategorija" : [1],
+        "cena" : {
+            "staraCena" : 11999,
+            "novaCena" : 9999
+        },
+        "datumIzlaska" : "2021-01-20"
+    },
+    {
+        "id" : 4,
+        "naziv" : "PS5 Ratchet and Clank - Rift Apart",
+        "slika" : {
+            "src" : "assets/img/game5.jpg",
+            "alt" : "PS5 Ratchet and Clank - Rift Apart"
+        },
+        "kompanija" : 3,
+        "platforma" : 2,
+        "kategorija" : [4,2],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 9499
+        },
+        "datumIzlaska" : "2021-11-26"
+    },
+    {
+        "id" : 5,
+        "naziv" : "PS4 Assassins Creed Unity",
+        "slika" : {
+            "src" : "assets/img/game13.jpg",
+            "alt" : "PS4 Assassins Creed Unity"
+        },
+        "kompanija" : 6,
+        "platforma" : 3,
+        "kategorija" : [1,2],
+        "cena" : {
+            "staraCena" : 2399,
+            "novaCena" : 1688
+        },
+        "datumIzlaska" : "2020-06-11"
+    },
+    {
+        "id" : 6,
+        "naziv" : "FIFA 21",
+        "slika" : {
+            "src" : "assets/img/game6.jpg",
+            "alt" : "FIFA 21"
+        },
+        "kompanija" : 5,
+        "platforma" : 2,
+        "kategorija" : [3],
+        "cena" : {
+            "staraCena" : 10489,
+            "novaCena" : 9999
+        },
+        "datumIzlaska" : "2020-12-05"
+    },
+    {
+        "id" : 7,
+        "naziv" : "PS5 MXGP 2020",
+        "slika" : {
+            "src" : "assets/img/game7.jpg",
+            "alt" : "PS5 MXGP 2020"
+        },
+        "kompanija" : 6,
+        "platforma" : 2,
+        "kategorija" : [1,6],
+        "cena" : {
+            "staraCena" : 7199,
+            "novaCena" : 5999
+        },
+        "datumIzlaska" : "2020-07-06"
+    },
+    {
+        "id" : 8,
+        "naziv" : "PCG Mortal Kombat 11",
+        "slika" : {
+            "src" : "assets/img/game8.jpg",
+            "alt" : "PCG Mortal Kombat 11"
+        },
+        "kompanija" : 6,
+        "platforma" : 1,
+        "kategorija" : [5],
+        "cena" : {
+            "staraCena" : 5499,
+            "novaCena" : 4999
+        },
+        "datumIzlaska" : "2020-10-11"
+    },
+    {
+        "id" : 9,
+        "naziv" : "PCG Tekken 7 ",
+        "slika" : {
+            "src" : "assets/img/game9.jpg",
+            "alt" : "PCG Tekken 7 "
+        },
+        "kompanija" : 6,
+        "platforma" : 1,
+        "kategorija" : [1,5],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 8999
+        },
+        "datumIzlaska" : "2021-07-22"
+    },
+    {
+        "id" : 10,
+        "naziv" : "Cyberpunk 2077",
+        "slika" : {
+            "src" : "assets/img/game10.jpg",
+            "alt" : "Cyberpunk 2077"
+        },
+        "kompanija" : 7,
+        "platforma" : 3,
+        "kategorija" : [1,2],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 8999
+        },
+        "datumIzlaska" : "2020-11-21"
+    },
+    {
+        "id" : 11,
+        "naziv" : "PS5 Cyberpunk 2077",
+        "slika" : {
+            "src" : "assets/img/game11.jpg",
+            "alt" : "PS5 Cyberpunk 2077"
+        },
+        "kompanija" : 7,
+        "platforma" : 2,
+        "kategorija" : [1,2],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 11999
+        },
+        "datumIzlaska" : "2021-04-06"
+    },
+    {
+        "id" : 12,
+        "naziv" : "FIFA 21",
+        "slika" : {
+            "src" : "assets/img/game12.jpg",
+            "alt" : "FIFA 21"
+        },
+        "kompanija" : 5,
+        "platforma" : 3,
+        "kategorija" : [3],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 6999
+        },
+        "datumIzlaska" : "2020-10-10"
+    },
+    {
+        "id" : 13,
+        "naziv" : "PS5 NBA 2K21",
+        "slika" : {
+            "src" : "assets/img/game2.jpg",
+            "alt" : "NBA 2K21"
+        },
+        "kompanija" : 2,
+        "platforma" : 2,
+        "kategorija" : [3],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 6999
+        },
+        "datumIzlaska" : "2020-11-11"
+    },
+    {
+        "id" : 14,
+        "naziv" : "PS5 Assassins Creed Valhalla",
+        "slika" : {
+            "src" : "assets/img/game14.jpg",
+            "alt" : "PS5 Assassins Creed Valhalla"
+        },
+        "kompanija" : 6,
+        "platforma" : 2,
+        "kategorija" : [1,2],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 11999
+        },
+        "datumIzlaska" : "2021-07-01"
+    },
+    {
+        "id" : 15,
+        "naziv" : "PS5 Riders Republic",
+        "slika" : {
+            "src" : "assets/img/game15.jpg",
+            "alt" : "PS5 Riders Republic"
+        },
+        "kompanija" : 6,
+        "platforma" : 2,
+        "kategorija" : [3,6],
+        "cena" : {
+            "staraCena" : null,
+            "novaCena" : 9999
+        },
+        "datumIzlaska" : "2021-10-11"
+    },
+    {
+        "id" : 16,
+        "naziv" : "The Sims 4",
+        "slika" : {
+            "src" : "assets/img/game16.jpg",
+            "alt" : "The Sims 4"
+        },
+        "kompanija" : 5,
+        "platforma" : 1,
+        "kategorija" : [4],
+        "cena" : {
+            "staraCena" : 3340,
+            "novaCena" : 2999
+        },
+        "datumIzlaska" : "2020-06-01"
+    }
+]

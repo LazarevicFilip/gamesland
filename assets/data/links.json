@@ -1,0 +1,30 @@
+[ 
+    {
+        "sadrzaj" : {
+            "ikonica" : "<i class='fas fa-sitemap'></i>",
+            "text" : "Sitemap"
+        },
+        "href" : "assets/xml/sitemap.xml"
+    },
+    {
+        "sadrzaj" : {
+            "ikonica" : "<i class='fas fa-file-pdf'></i>",
+            "text" : "Dokumentacija"
+        },
+        "href" : "assets/dokumentacija.pdf"
+    },
+    {
+        "sadrzaj" : {
+            "ikonica" : "<i class='fab fa-facebook'></i>",
+            "text" : "Facebook"
+        },
+        "href" : "https://www.facebook.com"
+    },
+    {
+        "sadrzaj" : {
+            "ikonica" : "<i class='fab fa-instagram'></i>",
+            "text" : "Instagram"
+        },
+        "href" : "https://www.instagram.com"
+    }
+]

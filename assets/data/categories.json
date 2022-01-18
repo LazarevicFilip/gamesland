@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "Akcija"
+    },
+    {
+        "id" : 2,
+        "naziv" : "Avantura"
+    },
+    {
+        "id" : 3,
+        "naziv" : "Sport"
+    },
+    {
+        "id" : 4,
+        "naziv" : "Decije"
+    },
+    {
+        "id" : 5,
+        "naziv" : "Borilacke"
+    },
+    {
+        "id" : 6,
+        "naziv" : "Voznje"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "Sony - SOE"
+    },
+    {
+        "id" : 2,
+        "naziv" : "2K - Sports"
+    },
+    {
+        "id" : 3,
+        "naziv" : "SQUARE ENIX"
+    },
+    {
+        "id" : 4,
+        "naziv" : "Nacon"
+    },
+    {
+        "id" : 5,
+        "naziv" : "EA Sports"
+    },
+    {
+        "id" : 6,
+        "naziv" : "Ubisoft"
+    },
+    {
+        "id" : 7,
+        "naziv" : "CD Projekt"
+    }
+]
