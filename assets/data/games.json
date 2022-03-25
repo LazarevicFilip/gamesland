@@ -29,7 +29,7 @@
             "staraCena" : 6999,
             "novaCena" : 6199
         },
-        "datumIzlaska" : "2021-06-15"
+        "datumIzlaska" : "2023-06-15"
     },
     {
         "id" : 3,
@@ -61,7 +61,7 @@
             "staraCena" : null,
             "novaCena" : 9499
         },
-        "datumIzlaska" : "2021-11-26"
+        "datumIzlaska" : "2023-11-26"
     },
     {
         "id" : 5,
@@ -141,7 +141,7 @@
             "staraCena" : null,
             "novaCena" : 8999
         },
-        "datumIzlaska" : "2021-07-22"
+        "datumIzlaska" : "2023-07-22"
     },
     {
         "id" : 10,
@@ -173,7 +173,7 @@
             "staraCena" : null,
             "novaCena" : 11999
         },
-        "datumIzlaska" : "2021-04-06"
+        "datumIzlaska" : "2023-04-06"
     },
     {
         "id" : 12,
@@ -205,7 +205,7 @@
             "staraCena" : null,
             "novaCena" : 6999
         },
-        "datumIzlaska" : "2020-11-11"
+        "datumIzlaska" : "2023-11-11"
     },
     {
         "id" : 14,
@@ -221,7 +221,7 @@
             "staraCena" : null,
             "novaCena" : 11999
         },
-        "datumIzlaska" : "2021-07-01"
+        "datumIzlaska" : "2023-07-01"
     },
     {
         "id" : 15,
@@ -237,7 +237,7 @@
             "staraCena" : null,
             "novaCena" : 9999
         },
-        "datumIzlaska" : "2021-10-11"
+        "datumIzlaska" : "2023-10-11"
     },
     {
         "id" : 16,
